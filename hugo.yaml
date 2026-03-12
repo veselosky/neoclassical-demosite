@@ -1,11 +1,18 @@
 baseURL: https://example.org/
 languageCode: en-us
 title: "Joey Blogs: Space Exploration Chronicles"
-themesDir: ../..
+themesDir: ..
 theme: neoclassical
 
 pagination:
   pagerSize: 5
+
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+        title: true
 
 taxonomies:
   tag: tags
