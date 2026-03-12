@@ -4,7 +4,7 @@ date: 2025-03-18
 author: Joey Blogs
 categories: [ESA Missions]
 tags: [ESA, JUICE, Jupiter, Ganymede, Europa]
-cover: img/covers/jupiter-trajectory.svg
+cover: img/covers/Juice_s_journey_to_Jupiter_1920.jpg
 banner:
   image: img/banners/jupiter-approach.svg
   alt: Jupiter and icy moons with trajectory arc

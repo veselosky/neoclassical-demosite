@@ -100,9 +100,9 @@ menu:
     - name: News Briefs
       pageRef: /news
       weight: 30
-    - name: ESA Focus
-      pageRef: /article/esa-juice-jupiter
-      weight: 40
+    - name: About
+      pageRef: /about
+      weight: 60
     - name: Archives
       pageRef: /archives
       weight: 45

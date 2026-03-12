@@ -6,9 +6,6 @@ featured: true
 categories: [NASA Missions]
 tags: [Artemis, Orion, SLS, Moon]
 cover: img/covers/artemis-launch.svg
-banner:
-  image: img/banners/press-briefing.svg
-  alt: Launch briefing room with Artemis patch
 ---
 Artemis I validated integrated performance across launch vehicle, spacecraft, and recovery operations. The mission profile tested communication handoffs and thermal performance beyond low Earth orbit.
 
