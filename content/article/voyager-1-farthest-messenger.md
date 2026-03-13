@@ -2,7 +2,6 @@
 title: "Voyager 1: Humanity's Farthest Messenger"
 date: 2025-01-12
 author: Joey Blogs
-featured: true
 categories: [NASA Missions, Deep Space]
 tags: [Voyager, Interstellar, NASA, Heliosphere]
 cover: img/covers/voyager-signal.svg
