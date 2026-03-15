@@ -1,8 +1,7 @@
 baseURL: https://example.org/
 languageCode: en-us
 title: "Joey Blogs: Space Exploration Chronicles"
-themesDir: ..
-theme: neoclassical
+theme: github.com/veselosky/neoclassical
 
 pagination:
   pagerSize: 5
@@ -25,6 +24,7 @@ params:
   author: Joey Blogs
   copyright: "Copyright 2026 Joey Blogs. All rights reserved."
   date_format: "Jan 2, 2006"
+  usePagefind: true
   banner:
     image: img/banners/site-default.svg
     alt: Earth and stars over mission control
