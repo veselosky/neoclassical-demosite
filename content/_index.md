@@ -1,5 +1,6 @@
 ---
 params:
+  precontent_template: "precontent-home.html"
   sidebar:
     enabled: true
     modules:
